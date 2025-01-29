@@ -8,3 +8,4 @@ env/
 *.pyd
 __pycache__/
 .cache/
+cmds

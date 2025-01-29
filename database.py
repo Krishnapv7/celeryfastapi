@@ -1,7 +1,7 @@
 from sqlalchemy import create_engine,MetaData
 from databases import Database
 
-DATABASE_URL = "postgresql://krish:mypassword@localhost/assignmentdb"
+DATABASE_URL = "db-url"
 
 database = Database(DATABASE_URL)
 metadata = MetaData()

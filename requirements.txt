@@ -8,3 +8,4 @@ redis
 openai
 asyncpg
 psycopg2
+asgiref
